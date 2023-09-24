@@ -2,8 +2,8 @@
     "name": "Telegram bot",
     "description": "A Normal Telegram Bot Which can download and upload files from txt file with extra features",
     "keywords": ["Telegram","python", "Video","uploader"],
-    "repository": "https://github.com/Sachin79/tx",
-    "success_url": "https://t.me/+2zN_cwFgzIo5ZjRl",
+    "repository": "https://github.com/Theamitkumarsaini/amittxt",
+    "success_url": "https://t.me/+bOKCcexbfHw3MzFl",
     "stack": "container",
     "env": {
         "API_ID": {
